@@ -8,7 +8,7 @@ const Footer = () => {
           <div></div>
           <div className="p-8">
             <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold">
-              Case study
+              Case study hello1
             </div>
             <a
               className="block mt-1 text-lg leading-tight font-medium text-black hover:underline"
